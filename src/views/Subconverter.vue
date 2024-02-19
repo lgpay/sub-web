@@ -211,8 +211,7 @@ export default {
           Surge2: "surge&ver=2",
         },
         backendOptions: [
-          { value: "https://api.surfnet.ca/sub?" },
-          { value: "https://sub.id9.cc/sub?" },
+          { value: "https://sub.s13.win/sub?" },
           { value: "https://api.dler.io/sub?" }
         ],
         remoteConfig: [
