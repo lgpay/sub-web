@@ -211,7 +211,7 @@ export default {
           Surge2: "surge&ver=2",
         },
         backendOptions: [
-          { value: "https://sub.s13.win/sub?" },
+          { value: "https://seew.tk/sub?" },
           { value: "https://api.dler.io/sub?" }
         ],
         remoteConfig: [
